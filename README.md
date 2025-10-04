@@ -12,23 +12,22 @@
 ---
 
 ## 🚀 About Me
-- 🎓 Education / Current program  
-- 🖥️ Current interests / tech stack  
-- 🤖 Areas of exploration / specialization  
-- 🌍 Career goal / aspiration  
-- ⚡ Fun fact or mindset  
+- 🎓 Education : AI & Data Science
+- 🖥️ Current interests : AI FullStack Development
+- 🤖 Areas of exploration : ML , DL  , Gen AI 
+
 
 ---
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/your-link" target="_blank">
+  <a href="https://www.linkedin.com/in/thiyanesh-d-6a7637331/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-1f6feb?logo=linkedin&style=for-the-badge"/>
   </a>
-  <a href="mailto:yourmail@example.com">
+  <a href="mailto: thiyanesh7777l@egmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-42f56c?style=for-the-badge&logo=gmail"/>
   </a>
-  <a href="https://huggingface.co/yourprofile" target="_blank">
+  <a href="hhttps://huggingface.co/Thiyanesh07" target="_blank">
     <img src="https://img.shields.io/badge/HuggingFace-Profile-00bfff?style=for-the-badge&logo=huggingface"/>
   </a>
 </p>
@@ -43,17 +42,10 @@
 - *Other Tools:* …  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,react,html,css,nodejs,linux,git,github,vscode,aws&theme=dark&perline=6"/>
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,git,github,vscode,aws&theme=dark&perline=6"/>
 </p>
 
----
 
-## 🚀 Highlight Projects
-- 🔹 Project 1 – short description  
-- 🔹 Project 2 – short description  
-- 🔹 Project 3 – short description  
-
----
 
 ## 🏆 GitHub Trophies
 <p align="center">
