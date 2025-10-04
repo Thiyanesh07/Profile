@@ -6,7 +6,7 @@
 
 <!-- Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=3ABEFF&center=true&vCenter=true&width=1000&lines=Your+Name+|+Your+Role;Skills+|+Learning;Projects+|+Open+Source;Future+Goals+|+Innovator" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=3ABEFF&center=true&vCenter=true&width=1000&lines=THIYANESH+|+SOFTWARE+DEVELOPER;Skills+|+Learning;Projects+|+Open+Source;Future+Goals+|+Innovator" alt="Typing SVG"/>
 </p>
 
 ---
